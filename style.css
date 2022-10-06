@@ -204,7 +204,7 @@ p {
 }
 
 .aboutme {
-  background: url("../src/img/background\ 2.jpg")
+  background: url("./img/background\ 2.jpg")
     no-repeat;
   background-size: cover;
 }
